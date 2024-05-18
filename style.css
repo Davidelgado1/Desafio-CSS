@@ -1,0 +1,43 @@
+* {
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+header {
+    margin: 44px 0 144px 76px;
+}
+
+.link-header {
+    width: 87px;
+height: 20px;
+top: 47px;
+left: 42px;
+padding: 0px 4px 0px 0px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.logo-image {
+    width: 500px;
+    height: 400px;
+    display: inline-block;
+}
+
+.button-header {
+    width: 124px;
+height: 51px;
+top: 32px;
+left: 420px;
+gap: 0px;
+opacity: 0px;
+background-color: green;
+}
+
+section {
+    display: inline-block;
+}
